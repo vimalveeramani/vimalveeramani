@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vimalveeramani
-- 👀 I’m interested in web devoloping ...
-- 🌱 I’m currently learning B.E CS..
+- 👀 I’m interested in data analysis...
+- 🌱 I’m currently a B.E CSE Student..
 
 <!---
 vimalveeramani/vimalveeramani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
