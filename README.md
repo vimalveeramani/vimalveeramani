@@ -23,7 +23,7 @@ I'm currently Doing My Undergrad<br>>Interested In ML And DS<br>>Python Coder<br
 
 ### Certifications
 <div id="header" align="center">
-  <img src="https://drive.google.com/file/d/1NHOhTowy1GkxzrQqVcCwH-u_dG6iz4Aw/view?usp=drive_link" width="100"/>
+  <img src="https://github.com/vimalveeramani/vimalveeramani/blob/main/UC-2d2bcf8f-b511-4f57-b57d-37d66ade4461.jpg" width="100"/>
 </div>
 
 ---
