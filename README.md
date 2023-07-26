@@ -21,6 +21,11 @@ I'm currently Doing My Undergrad<br>>Interested In ML And DS<br>>Python Coder<br
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vimalveeramani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### Certifications
+<div id="header" align="center">
+  <img src="https://drive.google.com/file/d/1NHOhTowy1GkxzrQqVcCwH-u_dG6iz4Aw/view?usp=drive_link" width="100"/>
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=vimalveeramani&icon=0&color=0)](https://visitcount.itsvg.in)
 
