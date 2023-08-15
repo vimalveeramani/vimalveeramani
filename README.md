@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vimal veeramani</h1>
-<h3 align="center">A passionate data analyst and ML enthusiast</h3>
+<h3 align="center">A passionate Data analyst and ML enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalveeramani&label=Profile%20views&color=0e75b6&style=flat" alt="vimalveeramani" /> </p>
 
@@ -25,9 +25,6 @@
 
 - ⚡ Fun fact **stoic mindset**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
