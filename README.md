@@ -70,9 +70,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
   </a>
   <!-- Added Shell Scripting -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" alt="Shell Scripting" width="40" height="40" />
+  <a href="https://www.iconfinder.com/icons/10422694/bash_shell_script_icon" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconfinder.com/icons/10422694/bash_shell_script_icon.svg" alt="Shell Script" width="40" height="40" />
   </a>
+  <!-- Other tools like Git, Grafana, etc., should be included if missing -->
 </p>
 
 ---
