@@ -23,7 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/vimalveeramani](https://www.linkedin.com/in/vimalveera/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimalveeramani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vimalveera/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vimalveeramani" height="30" width="40" />
+</a>
 <a href="https://instagram.com/vimal._.veeramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vimal._.veeramani" height="30" width="40" /></a>
 <a href="https://medium.com/@vimalveeramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vimalveeramani" height="30" width="40" /></a>
 </p>
