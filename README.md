@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vimal Veeramani</h1>
-<h3 align="center">Data Enthusiast | Associate Data Engineer @GeoPITS</h3>
+<h3 align="center">Data Enthusiast | DBA @GeoPITS</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=vimalveeramani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
